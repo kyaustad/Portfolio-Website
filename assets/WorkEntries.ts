@@ -137,10 +137,10 @@ export const workEntries: WorkEntry[] = [
       links: [
         
         {
-          label: "3D Gallery",
+          label: "Artstation",
           severity: "help",
-          link: "https://git.crabinteractive.com/explore/repos",
-          icon: "pi pi-images",
+          link: "https://www.artstation.com/kyaustad",
+          icon: "pi pi-image",
         },
         
         

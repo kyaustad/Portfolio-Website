@@ -1,5 +1,5 @@
 <template>
-  <div class="flex bg-sky-400 min-w-[40%] min-h-[20%] rounded-xl p-4">
+  <div class="flex bg-sky-400 min-w-[40%] min-h-[80%] rounded-xl p-4">
     <div
       class="flex flex-row justify-between gap-4 bg-zinc-900 grow p-4 rounded-xl"
     >
