@@ -24,9 +24,9 @@
       <!-- Third Column -->
       <div class="flex md:flex-col gap-4 items-center justify-around">
         <SkillAvatar img="/docker.webp" name="Docker" />
-        <SkillAvatar img="/mongo.svg" name="MongoDB" />
+        <SkillAvatar img="/mongo.webp" name="MongoDB" />
         <SkillAvatar img="/cpp.png" name="C++" />
-        <SkillAvatar img="/unreal.svg" name="Unreal Engine" />
+        <SkillAvatar img="/unreal.webp" name="Unreal Engine" />
       </div>
 
       <div class="flex w-full md:flex-col gap-4 items-center justify-between">

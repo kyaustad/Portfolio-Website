@@ -19,12 +19,12 @@
         </a>
       </div>
       <div
-        class="max-h-[18px] sm:max-h-[26px] md:max-h-[32px] w-full md:mb-2 align-middle flex justify-around"
+        class="max-h-[18px] sm:max-h-[26px] gap-4 md:max-h-[32px] md:mb-2 align-middle flex flex-row justify-around"
       >
         <!-- <h3 class="text-white font-base text-xs mt-0">Tech Stack:</h3> -->
         <nuxt-img
           :src="`${img}`"
-          class="aspect-auto"
+          class="aspect-auto max-h-[18px] max-w-[18px] sm:max-h-[26px] sm:max-w-[26px] md:max-h-[32px] md:max-w-[32px]"
           v-for="img in entry.stack"
         />
       </div>

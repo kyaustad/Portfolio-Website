@@ -8,7 +8,7 @@ export const workEntries: WorkEntry[] = [
       stack: [
         "/js-logo.png",
         "/css.png",
-        "/mongo.svg",
+        "/mongo.webp",
         "/vue.png",
         "/express.webp",
         "/git.png",
@@ -55,7 +55,7 @@ export const workEntries: WorkEntry[] = [
       stack: [
         
         "/cpp.png",
-        "/unreal.svg",
+        "/unreal.webp",
         "/git.png",
         "/blender.png",
       ],
@@ -90,7 +90,7 @@ export const workEntries: WorkEntry[] = [
       stack: [
         
         "/cpp.png",
-        "/unreal.svg",
+        "/unreal.webp",
         "/git.png",
         "/blender.png",
         "/substance.png",

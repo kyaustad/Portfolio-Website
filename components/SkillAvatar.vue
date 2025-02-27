@@ -12,7 +12,12 @@
     <div
       class="flex flex-col items-center justify-center gap-1 text-center p-4 rounded-xl bg-[#292626]"
     >
-      <nuxt-img :src="props.img" class="max-w-[30px] md:max-w-[50px] rounded" />
+      <nuxt-img
+        :src="props.img"
+        height="40"
+        alt="Skill Icon"
+        class="max-w-[30px] md:max-w-[50px] max-h-[30px] md:max-h-[50px] rounded"
+      />
       <h3 class="mb-0 text-sm md:text-base">{{ props.name }}</h3>
     </div>
   </div>
