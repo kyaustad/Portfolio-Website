@@ -8,17 +8,15 @@
 
       <img src="/headshot.png" class="max-w-[200px]" />
       <div
-        class="text-center items-center flex max-w-[360px] border-red-500 border-2 p-7 rounded-xl"
+        class="text-center items-center flex flex-col justify-around gap-6 max-w-[360px] border-red-500 border-2 p-7 rounded-xl"
       >
+        <div class="flex grow flex-row gap-2" style="color: gray">
+          <i class="pi pi-map-marker"></i>
+          <p class="text-gray-400 text-sm">Anywhere You Need</p>
+        </div>
         <p class="text-white text-xl font-base">
-          Having a lifelong passion for learning and growth, I have been able to
-          develop skills through various verticals. I'm a passionate developer
-          for full-stack web applications using JavaScript, Vue, Nuxt, MongoDB,
-          or express.js. I believe technology should be used to empower
-          indivuduals and their creative visions, whether it is C++ and
-          Blueprints in Unreal Engine or the latest in Progressive Web Apps.
-          With a unique background in sales, I know how to be a self-starter,
-          and keep my excitement and passion for all things 'development'.
+          I am a full-stack developer. With a background in sales, I know how to
+          work hard.
         </p>
       </div>
 
