@@ -46,7 +46,7 @@
       class="flex flex-row align-middle text-center justify-between gap-4 bg-zinc-900 grow p-4 rounded-xl"
     >
       <a
-        href="/KyleAustadResume.docx"
+        href="https://www.dropbox.com/scl/fi/rjpp2hh6l48gsl7qexx1k/KyleAustadResume.docx?rlkey=rd1asccbob2xfp8ydv9tuw51a&dl=0"
         class="text-center justify-center align-middle items-center flex flex-col"
       >
         <nuxt-img
@@ -59,12 +59,12 @@
       </a>
       <h4 class="text-white text-3xl font-bold">Resume</h4>
       <a
-        href="/KyleAustadResume.pdf"
+        href="https://www.dropbox.com/scl/fi/ljszja34amisp91qwrqo3/KyleAustadResume.pdf?rlkey=cpf19mirh9mbyv80aee5z9fry&dl=0"
         class="text-center justify-center align-middle items-center flex flex-col"
       >
         <nuxt-img
           class="rounded-xl transform transition-all duration-300 ease-out hover:scale-[1.2] max-w-[52px] max-h-[52px]"
-          src="/pdf.webp"
+          src="/pdf.png"
         ></nuxt-img>
         <p>Resume.pdf</p>
       </a>

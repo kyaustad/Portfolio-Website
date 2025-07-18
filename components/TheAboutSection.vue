@@ -6,7 +6,7 @@
     >
       <SectionHeader title="About" />
 
-      <img src="/headshot.png" class="max-w-[200px]" />
+      <img src="/headshot.webp" class="max-w-[200px] rounded-full" />
       <div
         class="text-center items-center flex flex-col justify-around gap-6 max-w-[360px] border-red-500 border-2 p-7 rounded-xl"
       >

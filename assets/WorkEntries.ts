@@ -2,6 +2,43 @@ import type { WorkEntry } from "~/types/WorkEntry";
 
 export const workEntries: WorkEntry[] = [
   {
+    title: "Voyyance",
+    desc: "Bringing insight and data to the door-to-door sales industry. I am a full-stack engineer, and have lead feature addition from dynamic emails, profitability and earnings projections and calculations, and spearheaded the design and architecture of our native apps, prioritizing a local first and offline available approach.",
+    coverImg: "/voyyance/1.png",
+    stack: [
+      "/react.webp",
+      "/tailwind.png",
+      "/aws.webp",
+
+      "/python.webp",
+      "/git.png",
+      "/docker.webp",
+      "/postgres.webp",
+      "/rust.png",
+    ],
+    links: [
+      {
+        label: "App",
+        severity: "info",
+        link: "https://voyyance.com",
+        icon: "pi pi-check",
+      },
+      // {
+      //   label: "LinkedIn",
+      //   severity: "help",
+      //   link: "https://www.linkedin.com/pulse/learning-management-system-lms-vue-nuxt-tailwind-css-kyle-austad-654he",
+      //   icon: "pi pi-linkedin",
+      // },
+    ],
+    gallery: [
+      { itemImageSrc: "/voyyance/1.png" },
+      { itemImageSrc: "/voyyance/2.png" },
+      { itemImageSrc: "/voyyance/3.png" },
+      { itemImageSrc: "/voyyance/4.png" },
+      { itemImageSrc: "/voyyance/5.png" },
+    ],
+  },
+  {
     title: "Shrike LMS",
     desc: "Shrike Pest Control needed a better approach to training with more data, flexibility and speed, all without breaking the bank. Traditional LMS platforms can quickly become expensive for startup companies, so I made one. Extremely flexible, fast, and beautiful.",
     coverImg: "/lms/lms-banner.png",

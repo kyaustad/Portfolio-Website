@@ -10,7 +10,7 @@
     v-motion-fade-visible
   >
     <div
-      class="flex flex-col items-center justify-center gap-1 text-center p-4 rounded-xl bg-[#292626]"
+      class="flex flex-col items-center justify-center gap-1 text-center p-4 rounded-xl bg-[#292626] flex-grow h-full"
     >
       <nuxt-img
         :src="props.img"
