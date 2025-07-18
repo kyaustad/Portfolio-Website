@@ -6,7 +6,7 @@ export const workEntries: WorkEntry[] = [
     desc: "Bringing insight and data to the door-to-door sales industry. I am a full-stack engineer, and have lead feature addition from dynamic emails, profitability and earnings projections and calculations, and spearheaded the design and architecture of our native apps, prioritizing a local first and offline available approach.",
     coverImg: "/voyyance/1.png",
     stack: [
-      "/react.webp",
+      "/react-logo.webp",
       "/tailwind.png",
       "/aws.webp",
 

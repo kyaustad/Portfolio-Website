@@ -21,7 +21,7 @@
       <SkillAvatar img="/aws.webp" name="AWS" />
 
       <SkillAvatar img="/python.webp" name="Python" />
-      <SkillAvatar img="/react.webp" name="React" />
+      <SkillAvatar img="/react-logo.webp" name="React" />
       <SkillAvatar img="/rust.png" name="Rust" />
 
       <!-- Third Column -->
